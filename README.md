@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nouman Shahir
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning HTML, CSS and Python
-- 📫 How to reach me @noumanshahir
+- 📫 Find me on twitter by @noumanshahir
 
 <!---
 noumanshahir/noumanshahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
