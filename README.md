@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noumanshahir
+- 👋 Hi, I’m Nouman Shahir
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning HTML, CSS and Python
 - 📫 How to reach me @noumanshahir
